@@ -1,4 +1,4 @@
-# emgucv-car-detection
+# Emgu.Cv Car Detection
 Proje Tanımı: Araç Tespit Sistemi
 
 Bu proje, görüntü işleme ve yapay zeka tekniklerini kullanarak bir video dosyasındaki araçları tespit etmek için geliştirilmiş bir uygulamayı içermektedir. Proje, C# programlama dili ve Emgu.CV kütüphanesi kullanılarak gerçekleştirilmiştir.
