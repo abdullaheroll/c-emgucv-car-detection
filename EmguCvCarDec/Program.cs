@@ -10,7 +10,7 @@ namespace EmguCvCarDec
         static void Main(string[] args)
         {
    
-            VideoCapture capture = new VideoCapture(@"C:\Users\abdul\Downloads\Video\video2.mp4");
+            VideoCapture capture = new VideoCapture(@"video2.mp4");
 
             // Video oynatıldığı sürece devam edecek bir döngü
                 
